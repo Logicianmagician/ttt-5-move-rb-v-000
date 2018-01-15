@@ -7,5 +7,8 @@ def display_board(board)
 end
 
 def input_to_index(input)
-  return input.to_i - 1
+  puts input.to_i + 1
 end
+
+def move(input)
+  puts index = 
